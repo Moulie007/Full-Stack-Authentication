@@ -1,0 +1,3 @@
+{"username":"testuser", "password":"hashed_password", "displayName":"Test User", "gender":"Male"}moulie,$2b$10$6DZ83jKWqk2iYDyawXgp6OJg.4nLVZ41iucZmDr02Dmux0sk1XxRy,moulie007,Male
+Moulie,$2b$10$h42IhrqhYqx0Xv95MiIeWOzY3.ZIYY58AXZTM3y6bSSyGFVGIxgyS,moulies,Male
+Raghul,$2b$10$KM1dSC0KcKnqaevV7IYlROPG1TFndAbeU5FhMkkh.yKgdcHuQXSSy,raghul,Male
