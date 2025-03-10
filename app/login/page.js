@@ -26,6 +26,7 @@ export default function LoginPage() {
 
   return (
     <div className="container mt-5">
+    <h1>LOGIN<h1>
       <h2 className="mb-4 text-center">Login</h2>
       <form onSubmit={handleSubmit} className="p-4 border rounded shadow-sm bg-light">
         <div className="mb-3">
