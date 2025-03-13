@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
 import { useRouter } from "next/navigation"; // Import useRouter
+import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function SignupPage() {
   const [formData, setFormData] = useState({
